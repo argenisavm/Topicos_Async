@@ -1,0 +1,11 @@
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\bin\Debug\AsyncEjemplo.exe.config
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\bin\Debug\AsyncEjemplo.exe
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\bin\Debug\AsyncEjemplo.pdb
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\obj\Debug\AsyncEjemplo.csprojAssemblyReference.cache
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\obj\Debug\AsyncEjemplo.Async.resources
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\obj\Debug\AsyncEjemplo.Form1.resources
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\obj\Debug\AsyncEjemplo.NoAsync.resources
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\obj\Debug\AsyncEjemplo.Properties.Resources.resources
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\obj\Debug\AsyncEjemplo.csproj.GenerateResource.cache
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\obj\Debug\AsyncEjemplo.exe
+C:\Users\andr6\source\repos\AsyncEjemplo\AsyncEjemplo\obj\Debug\AsyncEjemplo.pdb
